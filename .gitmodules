@@ -1,0 +1,3 @@
+[submodule "Proptech.SubModules"]
+	path = Proptech.SubModules
+	url = https://github.com/SarathPantula/Proptech.SubModules.git
